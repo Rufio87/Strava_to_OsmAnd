@@ -11,10 +11,7 @@ mv Default.mrules Default.mrules.backup
 mv $mrulesFilename Default.mrules
 cd ..
 
-
-#./Maperitive.sh -exitafter "Scripts/"$mscriptFilename
-./Maperitive.sh "Scripts/"$mscriptFilename
+./Maperitive.sh -exitafter "Scripts/"$mscriptFilename
 
 cd Rules
-rm Default.mrules
 mv Default.mrules.backup Default.mrules

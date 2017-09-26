@@ -1,2 +1,2 @@
-
-asdf
+load-source /home/lukas/PycharmProjects/Strava_to_OsmAnd/activities/rides_merged.gpx
+generate-tiles bounds=5.987549,47.788556,10.491943,45.818591 minzoom=8 maxzoom=16  tilesdir=Tiles/CH min-tile-file-size=700

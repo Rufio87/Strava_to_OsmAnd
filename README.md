@@ -1,6 +1,6 @@
 # Strava_to_OsmAnd
 
-Requirements:
-gpsbabel
-maperative
-mobile atlas creator
+**Requirements**:\
+gpsbabel with command line support\
+maperative\
+mobile atlas creator\
